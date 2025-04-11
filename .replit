@@ -1,0 +1,9 @@
+modules = ["web"]
+language = "html"
+run = ".replit"
+
+[nix]
+channel = "stable-24_05"
+
+[deployment]
+run = ["sh", "-c", ".replit"]
