@@ -1,5 +1,4 @@
 modules = ["web"]
-language = "html"
 run = ".replit"
 
 [nix]
